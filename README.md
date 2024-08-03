@@ -19,7 +19,7 @@ Check this video [here](https://drive.google.com/file/d/19vqa8AXK2pWwBnvDcOMbjdU
 
 ## Contents
 
-- **Google Drive Link**: The full Unity game, including all assets and scripts, can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1tgDTMujjKbL-HdM4AAK2BOkerLqwylBK).
+- **Google Drive Link**: The full Unity game, including all assets and scripts, can be downloaded from [Google Drive](https://drive.google.com/file/d/17v5SdX9eSy48tI-dHF1qdgmV97ekQrSv/view?usp=drive_link).
 - **Image Targets**: A folder containing all image targets used in the game.
 - **Project Report**: A comprehensive report detailing the game design, implementation, and technical choices.
 
@@ -27,7 +27,7 @@ Check this video [here](https://drive.google.com/file/d/19vqa8AXK2pWwBnvDcOMbjdU
 
 To run the project locally, follow these steps:
 
-1. **Download the Project**: Download the zip file from the [Google Drive link](https://drive.google.com/drive/folders/1tgDTMujjKbL-HdM4AAK2BOkerLqwylBK) and extract it.
+1. **Download the Project**: Download the zip file from the [Google Drive link](https://drive.google.com/file/d/17v5SdX9eSy48tI-dHF1qdgmV97ekQrSv/view?usp=drive_link) and extract it.
 
 2. **Unity Setup**:
    - Ensure you have Unity installed (compatible with the project's Unity version 2022.3).
